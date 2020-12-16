@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-paiva-264a45164/)](https://www.linkedin.com/in/george-paiva-264a45164/)
 
 ### Sobre me
-Sou um apaixonado pela linguagem Java, e estou em constante evolução para trazer as melhores propostas para o desenvolvimento de Software de qualidade e escalabilidade. Habilidade na linguagem de programação Java, e foco na estrutura do ecossistema Spring, Spring Boot, Spring Data JPA e Spring Security. Usando a especificação JPA, com implementação do HIBERNATE para a persistência de dados e mapeamento relacional, executando e organizando completamente todos os serviços que poderiam funcionar. [@java](https://www.java.com/pt-BR/).
+Sou um apaixonado pela linguagem Java, e estou em constante evolução para trazer as melhores propostas para o desenvolvimento de Software de qualidade e com escalabilidade. Habilidade na linguagem de programação Java, e foco na estrutura do ecossistema Spring, Spring Boot, Spring Data JPA e Spring Security. Usando a especificação JPA, com implementação do HIBERNATE para a persistência de dados e mapeamento relacional, executando e organizando completamente todos os serviços que poderiam funcionar. [@java](https://www.java.com/pt-BR/).
 
 - [Alura](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - São cursos técnicos em várias tecnologias, como Java e muitas mais.
 
