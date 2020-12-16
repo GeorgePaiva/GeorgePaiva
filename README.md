@@ -1,12 +1,12 @@
-# Olá, eu sou George Paiva! :D
+# Hi, I am George Paiva! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GeorgePaiva)](https://github.com/GeorgePaiva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-paiva-264a45164/)](https://www.linkedin.com/in/george-paiva-264a45164/)
 
 ### Sobre me
-Sou um apaixonado pela linguagem Java, e estou em constante evolução para trazer as melhores propostas para o desenvolvimento de Software de qualidade e com escalabilidade. Habilidade na linguagem de programação Java, e foco na estrutura do ecossistema Spring, Spring Boot, Spring Data JPA e Spring Security. Usando a especificação JPA, com implementação do HIBERNATE para a persistência de dados e mapeamento relacional, executando e organizando completamente todos os serviços que poderiam funcionar. [@java](https://www.java.com/pt-BR/).
+I am passionate about the Java language, and I am constantly evolving to bring the best proposals for the development of quality software with scalability. Skill in the Java programming language, and focus on the structure of the Spring, Spring Boot, Spring Data JPA and Spring Security ecosystem. Using the JPA specification, with implementation of HIBERNATE for data persistence and relational mapping, running and completely organizing all services that could work. [@java](https://www.java.com/pt-BR/).
 
-- [Alura](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - São cursos técnicos em várias tecnologias, como Java e muitas mais.
+- [Courses](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - There are technical courses in various technologies, such as Java and many more...
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
