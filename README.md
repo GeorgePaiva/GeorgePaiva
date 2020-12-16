@@ -6,4 +6,4 @@
 ### Sobre me
 Eu sou um Desenvolvedor apaixonado pela linguagem Java. [@java](https://www.java.com/pt-BR/).
 
-- [Cursos](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - São cursos técnicos em várias tecnologias, como Java e muitas mais.
+- [Alura](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - São cursos técnicos em várias tecnologias, como Java e muitas mais.
