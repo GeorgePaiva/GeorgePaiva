@@ -16,8 +16,17 @@ I am passionate about the Java language, and I am constantly evolving to bring t
       src="https://github-readme-stats.vercel.app/api?username=georgepaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
 </p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
+  </a>
+</p>
+
 
 
 
