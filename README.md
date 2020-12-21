@@ -18,9 +18,8 @@ I am passionate about the Java language, and I am constantly evolving to bring t
   </a>
 </p>
 
-<img
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
-/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
+
 
 
 
