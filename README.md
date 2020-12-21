@@ -19,7 +19,7 @@ I am passionate about the Java language, and I am constantly evolving to bring t
 </p>
 
 <p align= "center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
 </p>
 
 
