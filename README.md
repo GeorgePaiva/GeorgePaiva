@@ -23,7 +23,7 @@ I am passionate about the Java language, and I am constantly evolving to bring t
     <img
       align="center"
       height="165"
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgepaiva&layout=compact)](https://github.com/georgepaiva/github-readme-stats)"
   </a>
 </p>
 
