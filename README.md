@@ -8,10 +8,10 @@ I am passionate about the Java language, and I am constantly evolving to bring t
 
 - [Courses](https://cursos.alura.com.br/user/george-paiva15) 👨🏼‍🏫 - There are technical courses in various technologies, such as Java and many more...
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="left"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=georgepaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
