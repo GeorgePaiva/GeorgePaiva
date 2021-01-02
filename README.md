@@ -13,7 +13,7 @@ I am passionate about the Java language, and I am constantly evolving to bring t
     <img
       align="left"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=georgepaiva&count_private=false&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=georgepaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
 </p>
