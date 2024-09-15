@@ -11,7 +11,7 @@ I am passionate about the Java language, and I am constantly evolving to bring t
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
+      align="auto"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgepaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
