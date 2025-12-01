@@ -15,6 +15,17 @@ With strong experience in **REST & SOAP architectures**, **microservices**, **SQ
 
 Backend engineering is my passion — solving problems with clean code, solid architecture, and high performance.
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="left"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgepaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
+    />
+  </a>
+</p>
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgepaiva&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🧰 Tech Stack
@@ -39,7 +50,8 @@ Backend engineering is my passion — solving problems with clean code, solid ar
 ### **Cloud & DevOps**
 - **AWS:** Lambda, EC2, SQS, SNS, API Gateway, Cognito  
 - **Azure:** DevOps Pipelines, Service Bus  
-- Docker  
+- Docker
+- K8S
 - Maven  
 - Git, GitHub  
 - CI/CD pipelines
