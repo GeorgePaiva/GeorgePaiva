@@ -15,7 +15,7 @@ With strong experience in **REST & SOAP architectures**, **microservices**, **SQ
 
 Backend engineering is my passion — solving problems with clean code, solid architecture, and high performance.
 
-<p align="left">
+<p align="auto">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="left"
