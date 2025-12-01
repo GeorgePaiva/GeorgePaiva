@@ -21,8 +21,10 @@ Backend engineering is my passion — solving problems with clean code, solid ar
 
 ### **Core Languages**
 - Java (8 → 21)
-- SQL
+- Spring Framework
+- Quarkus
 - JavaScript (basic)
+- Angular/React
 
 ### **Backend Frameworks & APIs**
 - Spring Boot  
