@@ -15,10 +15,10 @@ With strong experience in **REST & SOAP architectures**, **microservices**, **SQ
 
 Backend engineering is my passion — solving problems with clean code, solid architecture, and high performance.
 
-<p align="auto">
+<p align="auto" size=auto>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
+      align="left" size=auto
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeorgePaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
