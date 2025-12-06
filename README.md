@@ -15,13 +15,25 @@ With strong experience in **REST & SOAP architectures**, **microservices**, **SQ
 
 Backend engineering is my passion — solving problems with clean code, solid architecture, and high performance.
 
-<p align="auto" style="width: 50%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeorgePaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"/>
-  </a>
-</p>
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgepaiva&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Container centralizado -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeorgePaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
+          width="100%"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgepaiva&layout=compact&show_icons=true&theme=tokyonight"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
