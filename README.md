@@ -22,13 +22,13 @@ Backend engineering is my passion — solving problems with clean code, solid ar
       <td>
         <img 
           src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeorgePaiva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
-          width="100%"
+          width="110%"
         />
       </td>
       <td>
         <img
           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgepaiva&layout=compact&show_icons=true&theme=tokyonight"
-          width="100%"
+          width="110%"
         />
       </td>
     </tr>
