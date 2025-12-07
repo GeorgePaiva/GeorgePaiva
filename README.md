@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Highly skilled **Java Backend Developer** with experience across major Brazilian tech companies such as **SPC Brasil**, **Invillia**, **Capgemini**, **Meta**, and **Infinity Labs**.  
+Highly skilled **Java Backend Developer** with experience across major Brazilian tech companies such as **SPC Brasil**, **Invillia**, **Capgemini**, **Meta**, and **Niject technology**.  
 
 I specialize in building **scalable, resilient, and clean architectures** using the full Spring ecosystem, including **Spring Boot, Spring Data JPA, Spring Security, Spring WebFlux**, and cloud-native patterns.
 
