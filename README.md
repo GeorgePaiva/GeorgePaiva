@@ -7,11 +7,15 @@
 
 ## 🚀 About Me
 
-Highly skilled **Java Backend Developer** with experience across major Brazilian tech companies such as **SPC Brasil**, **Invillia**, **Capgemini**, **Meta**, and **Niject technology**.  
-
-I specialize in building **scalable, resilient, and clean architectures** using the full Spring ecosystem, including **Spring Boot, Spring Data JPA, Spring Security, Spring WebFlux**, and cloud-native patterns.
-
-With strong experience in **REST & SOAP architectures**, **microservices**, **SQL databases**, **cloud services (AWS & Azure)**, and **system integrations**, I focus on delivering robust backend solutions that scale in high-demand environments.
+I’m a Senior Software Engineer with solid experience in building scalable backend systems, mainly using Java, Spring Boot, and cloud-based architectures. Working on refactoring and continuous improvement initiatives for legacy and/or evolving systems. I also have hands-on experience with Node.js, TypeScript, and modern frontend frameworks like Angular, working across the full stack when needed.
+ 
+I hold an MBA in Software Engineering, which strengthened my ability to design robust, scalable systems while aligning technical decisions with business goals.
+ 
+My focus is on designing clean, maintainable APIs and distributed systems, with strong attention to performance, monitoring, and reliability. I’ve worked extensively with AWS, implementing solutions using services like Lambda, API Gateway, and CloudWatch, as well as infrastructure as code with Terraform.
+ 
+Beyond coding, I’m used to structuring projects, organizing codebases, and improving system observability. I also have experience leading small teams and collaborating in agile environments to deliver consistent results.
+ 
+I’m always looking to build efficient, scalable solutions that solve real business problems and to keep evolving both technically and strategically.
 
 Backend engineering is my passion — solving problems with clean code, solid architecture, and high performance.
 
